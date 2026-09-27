@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Poppins:wght@400;600&display=swap');
+
+:root {
+  --bg-main: #EFE9F4;
+  --dark-blue: #064661;
+  --text-color: #262626;
+  --p2-color: #171D1C;
+  --light-box-color: #99BEDF;
+  --dark-box-color: #064661B2;
+  --white: #FFF;
+
+  background-color: var(--bg-main);
+}
+
+.limelight-regular {
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+}
+
+header {
+  background-color: var(--dark-blue);
+  padding: 25px 60px;
+}
+
+h1 {
+  color: var(--white);
+  font-size: 36px;
+}
+
+.banner {
+  width: 100%;
+}
+
+main {
+  padding: 50px 70px;
+}
+
+.margin-bottom-section {
+  margin-bottom: 50px;
+}
+
+h2, h3 {
+  color: var(--dark-blue);
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.normal-paragraph {
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+.container-text-img {
+  display: flex;
+  gap: 7%;
+  justify-content: space-between;
+}
+
+.aside-img {
+  height: 100%;
+  flex: 1;
+  object-fit: cover;
+}
+
+.container-text-img > div,
+.container-text-img > img {
+  max-width: 46.5%;
+}
+
+#container-texts {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
