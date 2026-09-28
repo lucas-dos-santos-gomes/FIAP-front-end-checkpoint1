@@ -61,10 +61,14 @@ Caso não queira fazer todo esse processo, pode acessar o link do projeto hosped
 
 ## 👥 Dupla Desenvolvedora
 
-| Aluno | RM | GitHub | LinkedIn |
-| :--- | :---: | :---: | :---: |
-| **Lucas dos Santos Gomes** | `RM576912` | [@lucas-dos-santos-gomes](https://github.com/lucas-dos-santos-gomes) | [LinkedIn](https://linkedin.com/in/lucas-santos-gomes) |
-| **David Manoel Barros Pereira** | `RM576915` | [@DKplayerKS](https://github.com/DKplayerKS) | [LinkedIn](https://linkedin.com) |
+<div align="center">
+
+   | Aluno | RM | GitHub |
+   | :--- | :---: | :---: |
+   | **Lucas dos Santos Gomes** | `RM576912` | [@lucas-dos-santos-gomes](https://github.com/lucas-dos-santos-gomes) |
+   | **David Manoel Barros Pereira** | `RM576915` | [@DKplayerKS](https://github.com/DKplayerKS) |
+
+</div>
 
 ---
 
