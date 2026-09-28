@@ -102,3 +102,65 @@ h3 {
   flex-direction: column;
   gap: 30px;
 }
+
+/* Tópicos */
+#box-topics-align {
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+}
+.box-topics {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 33%;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 29px;
+  padding-left: 28px;
+  border-radius: 8px;
+  border: 2px solid var(--dark-blue);
+  background-color: var(--light-box-color);
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  font-style: normal;
+  color: #292929;
+}
+#box-topics_alt{
+  background-color: var(--dark-box-color);
+  color: white;
+}
+
+/* Galeria */
+#galeria{
+  justify-content: center;
+  display: flex;
+  gap: 50px;
+}
+.galeria_items{
+  border-radius: 50px;
+  width: 250px;
+  height: 250px;
+}
+
+/* Contatos */
+.contacts{
+  display: flex;
+  margin-top: 10px;
+}
+.icons{
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+/* Copyright - Rodapé */
+footer {
+  text-align: center;
+  background-color: var(--dark-blue);
+  padding: 32px 60px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 20px;
+}
